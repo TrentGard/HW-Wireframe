@@ -1,0 +1,39 @@
+body {background: #777;
+	color: #777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px}
+
+.a1 {background: #ebebeb;
+		color: #777;
+		text-align: center;
+		border: solid #777 5px;
+		padding: 20px;
+		width: 960px;
+		margin-left: 20%}
+
+.a2 {background: #ebebeb;
+		color: #777;
+		text-align: center;
+		border: solid #777 5px;
+		padding: 20px;
+		width: 960px;
+		margin-left: 20%;}
+
+.a3 {background: #ebebeb;
+		color: #777;
+		text-align: center;
+		border: solid #777 5px;
+		padding: 20px;
+		width: 960px;
+		margin-left: 20%;}
+
+.a4 {color: #777;}
+
+.a5 {background: #777;}
+
+.a6 {color: #ebebeb;
+	padding: 20px;}
+
+.a7 {background: #ebebeb;
+	color: #777;
+	border: solid #777 5px;
